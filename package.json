@@ -1,7 +1,7 @@
 {
-  "name": "glitch-hello-node",
+  "name": "web-socket-chat-server",
   "version": "0.1.0",
-  "description": "A simple Node app built on fastify, instantly up and running. Built to be remixed on Glitch.com.",
+  "description": "A simple websocket servert built for chat application, instantly up and running.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -11,13 +11,5 @@
   },
   "engines": {
     "node": "14.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-hello-node"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch"
-  ]
+  }
 }
